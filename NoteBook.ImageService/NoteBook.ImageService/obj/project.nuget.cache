@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "v4WjLMwDXRphUcnR9BpDG8WxcfoNShvgKcaWnk669YaAQ+uRIn+iiCFYHfxMcXrhqg7/GfTT+9rbCMoXLDJkRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kornelijus\\source\\repos\\NoteBook.ImageService\\NoteBook.ImageService\\NoteBook.ImageService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kornelijus\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\Kornelijus\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Kornelijus\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\Kornelijus\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

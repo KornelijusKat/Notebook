@@ -1,0 +1,15 @@
+C:\Users\Kornelijus\source\repos\Notebook.Database\Notebook.Database\bin\Debug\net5.0\Notebook.Database.deps.json
+C:\Users\Kornelijus\source\repos\Notebook.Database\Notebook.Database\bin\Debug\net5.0\Notebook.Database.runtimeconfig.json
+C:\Users\Kornelijus\source\repos\Notebook.Database\Notebook.Database\bin\Debug\net5.0\Notebook.Database.runtimeconfig.dev.json
+C:\Users\Kornelijus\source\repos\Notebook.Database\Notebook.Database\bin\Debug\net5.0\Notebook.Database.dll
+C:\Users\Kornelijus\source\repos\Notebook.Database\Notebook.Database\bin\Debug\net5.0\ref\Notebook.Database.dll
+C:\Users\Kornelijus\source\repos\Notebook.Database\Notebook.Database\bin\Debug\net5.0\Notebook.Database.pdb
+C:\Users\Kornelijus\source\repos\Notebook.Database\Notebook.Database\obj\Debug\net5.0\Notebook.Database.csproj.AssemblyReference.cache
+C:\Users\Kornelijus\source\repos\Notebook.Database\Notebook.Database\obj\Debug\net5.0\Notebook.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kornelijus\source\repos\Notebook.Database\Notebook.Database\obj\Debug\net5.0\Notebook.Database.AssemblyInfoInputs.cache
+C:\Users\Kornelijus\source\repos\Notebook.Database\Notebook.Database\obj\Debug\net5.0\Notebook.Database.AssemblyInfo.cs
+C:\Users\Kornelijus\source\repos\Notebook.Database\Notebook.Database\obj\Debug\net5.0\Notebook.Database.csproj.CoreCompileInputs.cache
+C:\Users\Kornelijus\source\repos\Notebook.Database\Notebook.Database\obj\Debug\net5.0\Notebook.Database.dll
+C:\Users\Kornelijus\source\repos\Notebook.Database\Notebook.Database\obj\Debug\net5.0\ref\Notebook.Database.dll
+C:\Users\Kornelijus\source\repos\Notebook.Database\Notebook.Database\obj\Debug\net5.0\Notebook.Database.pdb
+C:\Users\Kornelijus\source\repos\Notebook.Database\Notebook.Database\obj\Debug\net5.0\Notebook.Database.genruntimeconfig.cache

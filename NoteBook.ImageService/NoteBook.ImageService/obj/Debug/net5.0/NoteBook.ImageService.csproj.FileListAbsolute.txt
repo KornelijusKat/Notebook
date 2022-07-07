@@ -1,0 +1,12 @@
+C:\Users\Kornelijus\source\repos\NoteBook.ImageService\NoteBook.ImageService\bin\Debug\net5.0\NoteBook.ImageService.deps.json
+C:\Users\Kornelijus\source\repos\NoteBook.ImageService\NoteBook.ImageService\bin\Debug\net5.0\NoteBook.ImageService.dll
+C:\Users\Kornelijus\source\repos\NoteBook.ImageService\NoteBook.ImageService\bin\Debug\net5.0\ref\NoteBook.ImageService.dll
+C:\Users\Kornelijus\source\repos\NoteBook.ImageService\NoteBook.ImageService\bin\Debug\net5.0\NoteBook.ImageService.pdb
+C:\Users\Kornelijus\source\repos\NoteBook.ImageService\NoteBook.ImageService\obj\Debug\net5.0\NoteBook.ImageService.csproj.AssemblyReference.cache
+C:\Users\Kornelijus\source\repos\NoteBook.ImageService\NoteBook.ImageService\obj\Debug\net5.0\NoteBook.ImageService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kornelijus\source\repos\NoteBook.ImageService\NoteBook.ImageService\obj\Debug\net5.0\NoteBook.ImageService.AssemblyInfoInputs.cache
+C:\Users\Kornelijus\source\repos\NoteBook.ImageService\NoteBook.ImageService\obj\Debug\net5.0\NoteBook.ImageService.AssemblyInfo.cs
+C:\Users\Kornelijus\source\repos\NoteBook.ImageService\NoteBook.ImageService\obj\Debug\net5.0\NoteBook.ImageService.csproj.CoreCompileInputs.cache
+C:\Users\Kornelijus\source\repos\NoteBook.ImageService\NoteBook.ImageService\obj\Debug\net5.0\NoteBook.ImageService.dll
+C:\Users\Kornelijus\source\repos\NoteBook.ImageService\NoteBook.ImageService\obj\Debug\net5.0\ref\NoteBook.ImageService.dll
+C:\Users\Kornelijus\source\repos\NoteBook.ImageService\NoteBook.ImageService\obj\Debug\net5.0\NoteBook.ImageService.pdb

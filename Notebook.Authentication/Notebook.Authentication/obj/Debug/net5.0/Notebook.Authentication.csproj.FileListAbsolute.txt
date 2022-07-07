@@ -1,0 +1,12 @@
+C:\Users\Kornelijus\source\repos\Notebook.Authentication\Notebook.Authentication\bin\Debug\net5.0\Notebook.Authentication.deps.json
+C:\Users\Kornelijus\source\repos\Notebook.Authentication\Notebook.Authentication\bin\Debug\net5.0\Notebook.Authentication.dll
+C:\Users\Kornelijus\source\repos\Notebook.Authentication\Notebook.Authentication\bin\Debug\net5.0\ref\Notebook.Authentication.dll
+C:\Users\Kornelijus\source\repos\Notebook.Authentication\Notebook.Authentication\bin\Debug\net5.0\Notebook.Authentication.pdb
+C:\Users\Kornelijus\source\repos\Notebook.Authentication\Notebook.Authentication\obj\Debug\net5.0\Notebook.Authentication.csproj.AssemblyReference.cache
+C:\Users\Kornelijus\source\repos\Notebook.Authentication\Notebook.Authentication\obj\Debug\net5.0\Notebook.Authentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kornelijus\source\repos\Notebook.Authentication\Notebook.Authentication\obj\Debug\net5.0\Notebook.Authentication.AssemblyInfoInputs.cache
+C:\Users\Kornelijus\source\repos\Notebook.Authentication\Notebook.Authentication\obj\Debug\net5.0\Notebook.Authentication.AssemblyInfo.cs
+C:\Users\Kornelijus\source\repos\Notebook.Authentication\Notebook.Authentication\obj\Debug\net5.0\Notebook.Authentication.csproj.CoreCompileInputs.cache
+C:\Users\Kornelijus\source\repos\Notebook.Authentication\Notebook.Authentication\obj\Debug\net5.0\Notebook.Authentication.dll
+C:\Users\Kornelijus\source\repos\Notebook.Authentication\Notebook.Authentication\obj\Debug\net5.0\ref\Notebook.Authentication.dll
+C:\Users\Kornelijus\source\repos\Notebook.Authentication\Notebook.Authentication\obj\Debug\net5.0\Notebook.Authentication.pdb
