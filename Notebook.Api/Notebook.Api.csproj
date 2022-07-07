@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="5.0.17" />
+    <PackageReference Include="Microsoft.AspNetCore.Session" Version="2.2.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Notebook.Authentication\Notebook.Authentication\Notebook.Authentication.csproj" />
+    <ProjectReference Include="..\..\Notebook.Database\Notebook.Database\Notebook.Database.csproj" />
+    <ProjectReference Include="..\..\NoteBook.ImageService\NoteBook.ImageService\NoteBook.ImageService.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Notebook.Database">
+      <HintPath>..\..\Notebook.Database\Notebook.Database\bin\Debug\net5.0\Notebook.Database.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
