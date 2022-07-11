@@ -5663,18 +5663,18 @@
     },
     "Notebook.Authentication/1.0.0": {
       "type": "project",
-      "path": "../../Notebook.Authentication/Notebook.Authentication/Notebook.Authentication.csproj",
-      "msbuildProject": "../../Notebook.Authentication/Notebook.Authentication/Notebook.Authentication.csproj"
+      "path": "../Notebook.Authentication/Notebook.Authentication/Notebook.Authentication.csproj",
+      "msbuildProject": "../Notebook.Authentication/Notebook.Authentication/Notebook.Authentication.csproj"
     },
     "Notebook.Database/1.0.0": {
       "type": "project",
-      "path": "../../Notebook.Database/Notebook.Database/Notebook.Database.csproj",
-      "msbuildProject": "../../Notebook.Database/Notebook.Database/Notebook.Database.csproj"
+      "path": "../Notebook.Database/Notebook.Database/Notebook.Database.csproj",
+      "msbuildProject": "../Notebook.Database/Notebook.Database/Notebook.Database.csproj"
     },
     "NoteBook.ImageService/1.0.0": {
       "type": "project",
-      "path": "../../NoteBook.ImageService/NoteBook.ImageService/NoteBook.ImageService.csproj",
-      "msbuildProject": "../../NoteBook.ImageService/NoteBook.ImageService/NoteBook.ImageService.csproj"
+      "path": "../NoteBook.ImageService/NoteBook.ImageService/NoteBook.ImageService.csproj",
+      "msbuildProject": "../NoteBook.ImageService/NoteBook.ImageService/NoteBook.ImageService.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5713,14 +5713,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Kornelijus\\source\\repos\\Notebook.Authentication\\Notebook.Authentication\\Notebook.Authentication.csproj": {
-              "projectPath": "C:\\Users\\Kornelijus\\source\\repos\\Notebook.Authentication\\Notebook.Authentication\\Notebook.Authentication.csproj"
+            "C:\\Users\\Kornelijus\\source\\repos\\Notebook.Api\\Notebook.Authentication\\Notebook.Authentication\\Notebook.Authentication.csproj": {
+              "projectPath": "C:\\Users\\Kornelijus\\source\\repos\\Notebook.Api\\Notebook.Authentication\\Notebook.Authentication\\Notebook.Authentication.csproj"
             },
-            "C:\\Users\\Kornelijus\\source\\repos\\Notebook.Database\\Notebook.Database\\Notebook.Database.csproj": {
-              "projectPath": "C:\\Users\\Kornelijus\\source\\repos\\Notebook.Database\\Notebook.Database\\Notebook.Database.csproj"
+            "C:\\Users\\Kornelijus\\source\\repos\\Notebook.Api\\Notebook.Database\\Notebook.Database\\Notebook.Database.csproj": {
+              "projectPath": "C:\\Users\\Kornelijus\\source\\repos\\Notebook.Api\\Notebook.Database\\Notebook.Database\\Notebook.Database.csproj"
             },
-            "C:\\Users\\Kornelijus\\source\\repos\\NoteBook.ImageService\\NoteBook.ImageService\\NoteBook.ImageService.csproj": {
-              "projectPath": "C:\\Users\\Kornelijus\\source\\repos\\NoteBook.ImageService\\NoteBook.ImageService\\NoteBook.ImageService.csproj"
+            "C:\\Users\\Kornelijus\\source\\repos\\Notebook.Api\\NoteBook.ImageService\\NoteBook.ImageService\\NoteBook.ImageService.csproj": {
+              "projectPath": "C:\\Users\\Kornelijus\\source\\repos\\Notebook.Api\\NoteBook.ImageService\\NoteBook.ImageService\\NoteBook.ImageService.csproj"
             }
           }
         }

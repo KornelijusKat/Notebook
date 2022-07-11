@@ -5,11 +5,11 @@ VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Notebook.Api", "Notebook.Api\Notebook.Api.csproj", "{D64A4FCB-C64B-434D-B5FD-D9DA8F2325E4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Notebook.Database", "..\Notebook.Database\Notebook.Database\Notebook.Database.csproj", "{894B215A-5A94-4270-94CE-39820B105024}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Notebook.Authentication", "Notebook.Authentication\Notebook.Authentication\Notebook.Authentication.csproj", "{A7621FA7-1411-4794-AD84-0C7191F5C2DA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NoteBook.ImageService", "..\NoteBook.ImageService\NoteBook.ImageService\NoteBook.ImageService.csproj", "{81066385-4952-427F-A387-B7AD011AD416}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Notebook.Database", "Notebook.Database\Notebook.Database\Notebook.Database.csproj", "{602C2ACD-E2DF-4985-AAB0-EF61873CC7C1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Notebook.Authentication", "..\Notebook.Authentication\Notebook.Authentication\Notebook.Authentication.csproj", "{E4D951E9-10E9-4F20-9A36-074FB3D7B4F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NoteBook.ImageService", "NoteBook.ImageService\NoteBook.ImageService\NoteBook.ImageService.csproj", "{7FE406BA-DB0D-4A47-BD0B-4405875B0108}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,18 +21,18 @@ Global
 		{D64A4FCB-C64B-434D-B5FD-D9DA8F2325E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D64A4FCB-C64B-434D-B5FD-D9DA8F2325E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D64A4FCB-C64B-434D-B5FD-D9DA8F2325E4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{894B215A-5A94-4270-94CE-39820B105024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{894B215A-5A94-4270-94CE-39820B105024}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{894B215A-5A94-4270-94CE-39820B105024}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{894B215A-5A94-4270-94CE-39820B105024}.Release|Any CPU.Build.0 = Release|Any CPU
-		{81066385-4952-427F-A387-B7AD011AD416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{81066385-4952-427F-A387-B7AD011AD416}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{81066385-4952-427F-A387-B7AD011AD416}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{81066385-4952-427F-A387-B7AD011AD416}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E4D951E9-10E9-4F20-9A36-074FB3D7B4F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E4D951E9-10E9-4F20-9A36-074FB3D7B4F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E4D951E9-10E9-4F20-9A36-074FB3D7B4F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E4D951E9-10E9-4F20-9A36-074FB3D7B4F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7621FA7-1411-4794-AD84-0C7191F5C2DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7621FA7-1411-4794-AD84-0C7191F5C2DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7621FA7-1411-4794-AD84-0C7191F5C2DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7621FA7-1411-4794-AD84-0C7191F5C2DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{602C2ACD-E2DF-4985-AAB0-EF61873CC7C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{602C2ACD-E2DF-4985-AAB0-EF61873CC7C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{602C2ACD-E2DF-4985-AAB0-EF61873CC7C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{602C2ACD-E2DF-4985-AAB0-EF61873CC7C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FE406BA-DB0D-4A47-BD0B-4405875B0108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FE406BA-DB0D-4A47-BD0B-4405875B0108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FE406BA-DB0D-4A47-BD0B-4405875B0108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FE406BA-DB0D-4A47-BD0B-4405875B0108}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
