@@ -38,7 +38,7 @@ namespace Notebook.Api.Controllers
             return NotFound("Username or password was wrong");
         }
         [HttpPost("Create User")]
-        public IActionResult Index([FromQuery] UserDto newUser)
+        public ActionResult<ResponseDto> Index([FromQuery] UserDto newUser)
         {
             _account.SignUpAccount(newUser.FirstName,newUser.LastName);
             return Ok();
@@ -53,10 +53,10 @@ namespace Notebook.Api.Controllers
         }
         [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme)]
         [HttpPost("Create Category")]
-        public IActionResult CreateCategory([FromQuery] string name,[FromQuery] Guid userid)
+        public ActionResult<ResponseDto> CreateCategory([FromQuery] string name,[FromQuery] Guid userid)
         {
-            _dbContext.AddCategory(name,userid);
-            return Ok();
+            var Hello =_dbContext.AddCategory(name,userid);
+            return Ok(Hello.Message);
         }
         [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme)]
         [HttpPut("Change Record")]
